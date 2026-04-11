@@ -101,3 +101,6 @@ probe_time,http_status,response_time_ms,newest_feature_datetime,collection_id
 2026-04-11T04:49:55+00:00,200,242,2026-04-10T12:00:00,public.eis_fire_lf_perimeter_nrt
 2026-04-11T04:49:56+00:00,200,201,2026-04-10T12:00:00,public.eis_fire_lf_newfirepix_nrt
 2026-04-11T04:49:56+00:00,200,218,2026-04-10T12:00:00,public.eis_fire_lf_fireline_nrt
+2026-04-11T05:55:06+00:00,200,400,2026-04-10T12:00:00,public.eis_fire_lf_perimeter_nrt
+2026-04-11T05:55:07+00:00,200,318,2026-04-10T12:00:00,public.eis_fire_lf_newfirepix_nrt
+2026-04-11T05:55:07+00:00,200,355,2026-04-10T12:00:00,public.eis_fire_lf_fireline_nrt
