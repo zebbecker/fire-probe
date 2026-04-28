@@ -27,3 +27,16 @@ pixi run format
 
 ```
 
+To setup for analysis with the optional deps, use the dev environment. 
+
+```
+pixi install -e dev 
+pixi run -e python {whatever}
+```
+
+To use with a jupyter notebook, register the kernel with the dev environment: 
+
+```
+pixi run -e dev python -m ipykernel install --user --name fire-probe-dev --display-name "fire-probe-dev (pixi)"
+```
+
