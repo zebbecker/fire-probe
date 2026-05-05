@@ -27,6 +27,10 @@ pixi run format
 
 ```
 
+For scheduled runs: 
+
+`crontab -e; */10 * * * * /home/z/fire-probe/probe.sh >> /home/z/fire-probe/probe.log 2>&1`
+
 To setup for analysis with the optional deps, use the dev environment. 
 
 ```
